@@ -1,0 +1,19 @@
+cd desktop
+mkdir “file”
+touch index.html
+touch style.css
+git init
+git add .
+git commit -m “update”
+git add .
+git commit -m “new update”
+git add .
+git commit -m “newest update”
+git log
+git revert
+git add .
+git commit -m “last update”
+
+
+
+I added content more content to this copy
